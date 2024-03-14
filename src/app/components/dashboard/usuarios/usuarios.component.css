@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+  }
+
+  th{
+    width: 20%;
+  }
+
+  .pointer {
+    cursor: pointer;
+  }
+
+  .example-spacer {
+    flex: 1 1 auto;
+  }
